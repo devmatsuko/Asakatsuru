@@ -1,3 +1,3 @@
-# docker-laravel-handson
+# What
 
-Dockerを用いてLaravelの開発環境を構築する練習用レポジトリです。
+Laravel のアプリ開発の練習用のレポジトリです。
